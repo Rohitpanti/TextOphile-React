@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextOphile-React/static/css/main.7c017c52.css",
+    "main.js": "/TextOphile-React/static/js/main.fbe15f86.js",
+    "static/js/787.719ec76d.chunk.js": "/TextOphile-React/static/js/787.719ec76d.chunk.js",
+    "index.html": "/TextOphile-React/index.html",
+    "main.7c017c52.css.map": "/TextOphile-React/static/css/main.7c017c52.css.map",
+    "main.fbe15f86.js.map": "/TextOphile-React/static/js/main.fbe15f86.js.map",
+    "787.719ec76d.chunk.js.map": "/TextOphile-React/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c017c52.css",
+    "static/js/main.fbe15f86.js"
+  ]
+}
