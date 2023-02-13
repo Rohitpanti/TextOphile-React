@@ -1,6 +1,6 @@
 ## Web Veiw:
 ![header image](https://raw.github.com/Rohitpanti/TextOphile-React/master/view1.png)
-![header image](https://raw.github.com/Rohitpanti/TextOphile-Reacts/master/view2.png)
+![header image](https://raw.github.com/Rohitpanti/TextOphile-React/master/view2.png)
 
 # Getting Started with Create React App
 
